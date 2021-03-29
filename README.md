@@ -27,13 +27,13 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [https://github.com/MHasanPranto](https://github.com/MHasanPranto)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmudul-hasan-47124b172/](https://www.linkedin.com/in/mahmudul-hasan-47124b172/)
+- 📝 I regularly write articles on [https://hasanpranto.blogspot.com/](https://hasanpranto.blogspot.com/)
 
 - 💬 Ask me about **React, vue**
 
 - 📫 How to reach me **hasanpranto40@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/MHasanPranto](https://github.com/MHasanPranto)
+- 📄 Know about my experiences [https://www.linkedin.com/in/mahmudul-hasan-47124b172/](https://www.linkedin.com/in/mahmudul-hasan-47124b172/)
 
 - ⚡ Fun fact **I madly love coding. Cz it gives me joy**
 
